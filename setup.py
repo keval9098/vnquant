@@ -5,7 +5,6 @@ Created on Mon Nov 12 00:23:29 2018
 @author: khanhphamdinh
 """
 
-import numpy
 from setuptools import setup, find_packages
 
 try:
